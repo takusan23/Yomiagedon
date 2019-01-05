@@ -1,3 +1,3 @@
 # Yomiagedon
 MastodonのタイムラインをAquesTalkに読ませたかった。  
-なんか読めないときが多かったからやっぱAndroidのTTSでいいやってなった。
+漢字も読めるようにしました。
